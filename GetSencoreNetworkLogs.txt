@@ -1,0 +1,5 @@
+Measure ID= 69Sencore number= 3Humidity value= 20.0   Temperature value= 15.0   Date of measure= 2021-04-12 12:44:00.0
+Measure ID= 67Sencore number= 0Humidity value= 0.0   Temperature value= 22.4   Date of measure= 3922-01-01 20:15:00.0
+Measure ID= 68Sencore number= 0Humidity value= 0.0   Temperature value= 12.0   Date of measure= 4123-07-02 03:05:00.0
+Measure ID= 70Sencore number= 0Humidity value= 0.0   Temperature value= 22.4   Date of measure= Fri Nov 04 20:15:00 CET 3921
+Measure ID= 71Sencore number= 0Humidity value= 0.0   Temperature value= 12.0   Date of measure= Wed May 05 03:05:00 CEST 4123

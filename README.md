@@ -1,1 +1,1 @@
-# SencoreNetwork
+# sencoreNetwork
